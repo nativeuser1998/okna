@@ -1148,6 +1148,7 @@ body.lock {
        -ms-flex-pack: justify;
            justify-content: space-between;
    padding-bottom: 39px;
+   padding: 60px 0px 0px 0px;
  }
  
  .ordering__up-bc {
